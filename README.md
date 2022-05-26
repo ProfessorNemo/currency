@@ -14,7 +14,7 @@
 
 1. Перенесите содержимое данного репозитория на свой компьютер
 ```
-git remote add origin git@github.com:ProfessorNemo/currency.git
+git clone git@github.com:ProfessorNemo/currency.git
 ```
 2. Чтобы запустить приложение в этой же директории
 следует воспользоваться следующей командой:
